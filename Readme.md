@@ -6,5 +6,5 @@ Welcome to my Python Basics learning repository! This repository contains all th
 
 - **Course Name:** [Python Basics](https://www.coursera.org/learn/python-basics/home/week/1)
 - **Platform:** Coursera
-- **Current Learning Status:** Week 1/4
+- **Current Learning Status:** Week 2/4
 - **Last Update Status:** Week 1/4
