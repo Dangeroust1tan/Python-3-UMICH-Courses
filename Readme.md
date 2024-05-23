@@ -4,18 +4,22 @@ Welcome to my Python Basics learning repository! This repository contains all th
 
 ## Current Course Information
 
-- **Course Name:** [Python Basics](https://www.coursera.org/learn/python-basics/home/week/1)
-- **Platform:** Coursera
-- **Current Learning Status:** Week 3/4
-- **Last Update Date:** May 22,2024
-
-## Upcoming Courses Information
-
 - **Course Name:** [Python Functions,Files and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming)
 - **Platform:** Coursera
+- **Current Learning Status:** Week 1/4
+- **Last Update Date:** May 23,2024
+
+## Upcoming Courses Information
 
 - **Course Name:** [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming)
 - **Platform:** Coursera
 
 - **Course Name:** [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming)
 - **Platform:** Coursera
+
+## Completed Courses Information
+
+- **Course Name:** [Python Basics](https://www.coursera.org/learn/python-basics/home/week/1)
+- **Platform:** Coursera
+- **Current Learning Status:** Complete
+- **Last Update Date:** May 23,2024
