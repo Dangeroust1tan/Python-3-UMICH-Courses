@@ -6,8 +6,8 @@ Welcome to my Python Basics learning repository! This repository contains all th
 
 - **Course Name:** [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming)
 - **Platform:** Coursera
-- **Current Learning Status:** Complete
-- **Last Update Date:** May 23,2024
+- **Current Learning Status:** Week 1/3
+- **Last Update Date:** May 28,2024
 
 ## Upcoming Courses Information
 
